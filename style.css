@@ -1,12 +1,8 @@
 body {
   height: 100vh;
-  background-color: #ffc107;
+  background-color: #343a40;
 }
-.jumbotron {
-  background-image: url(https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 .container {
   margin-top: 2rem;
 }
@@ -25,7 +21,8 @@ h4 {
   margin-bottom: 1rem;
 }
 #footer {
-  background-color: #ffc107;
+  background-color: #343a40;
+  color: white;
 }
 
 .texty {
@@ -36,4 +33,8 @@ h4 {
   margin-left: 1rem;
   padding: 0.5rem;
   justify-content: center;
+}
+
+#margin-left {
+  padding-left: 32.5rem;
 }
