@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  background-color: #ffc107;
+}
+.jumbotron {
+  background-image: url(https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  margin-top: 2rem;
+}
+h4 {
+  text-align: center;
+  margin: 0.8rem;
+}
+.alert {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.navbar {
+  margin-bottom: 1rem;
+}
+
+.imgthree {
+  width: 33%;
+}
